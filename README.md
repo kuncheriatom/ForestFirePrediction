@@ -12,4 +12,4 @@ This repository contains code for predicting the occurrence of forest fires base
 - Ridge Regression with GridSearchCV
 
 ## Output
-- Predicted fire occurrence based on each regression model.
+- Predicted FWI value based on each regression model.
